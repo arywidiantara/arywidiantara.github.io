@@ -368,14 +368,14 @@ h1.navbar-brand {
     z-index: 9;
 
 }
+.slider-1 {
+    background-image: url(../img/slider/slide1.jpg);
+}
 .slider-2 {
     background-image: url(../img/slider/slide2.jpg);
 }
 .slider-3 {
     background-image: url(../img/slider/slide3.jpg);
-}
-.slider-4 {
-    background-image: url(../img/slider/slide4.jpg);
 }
 .sl-slider-wrapper {
     width: 100%;
