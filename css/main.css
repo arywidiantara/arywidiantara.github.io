@@ -377,6 +377,9 @@ h1.navbar-brand {
 .slider-3 {
     background-image: url(../img/slider/slide3.jpg);
 }
+.slider-4 {
+    background-image: url(../img/slider/slide4.jpg);
+}
 .sl-slider-wrapper {
     width: 100%;
     margin: 0 auto;
