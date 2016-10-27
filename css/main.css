@@ -821,6 +821,8 @@ h1.navbar-brand {
 }
 
 .portfolio-item img {
+    min-height: 200px;
+
     -webkit-transition: all 0.4s ease 0s;
        -moz-transition: all 0.4s ease 0s;
          -o-transition: all 0.4s ease 0s;
