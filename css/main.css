@@ -818,11 +818,10 @@ h1.navbar-brand {
     cursor: pointer;
     overflow: hidden;
     position: relative;
+    min-height: 316px;
 }
 
 .portfolio-item img {
-    min-height: 200px;
-
     -webkit-transition: all 0.4s ease 0s;
        -moz-transition: all 0.4s ease 0s;
          -o-transition: all 0.4s ease 0s;
