@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arywidiantara.github.io/sitemap.xml
