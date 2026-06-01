@@ -1,6 +1,6 @@
 # Ary Widiantara - Personal Website
 
-Personal portfolio and career website for **Ary Widiantara**, a Senior Lead Data Engineer & Analytics with experience building data organizations, scalable platforms, and trusted analytics capabilities.
+Personal portfolio and career website for **Ary Widiantara**, a Senior Lead, Data Engineering & Analytics with experience building data organizations, scalable platforms, and trusted analytics capabilities.
 
 The website presents a concise overview of my professional journey, selected business impact, leadership focus, and experience across data engineering, analytics, governance, and software engineering.
 
